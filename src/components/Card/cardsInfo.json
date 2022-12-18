@@ -1,0 +1,26 @@
+[
+    {
+        "id": "__calculator__app",
+        "title": "Calculator App",
+        "description": "Calculator App is an application to handle number calculations. This app takes 2 values and manipulate and provides the output.",
+        "path": "/calculatorApp"
+    },
+    {
+        "id": "__todo__app",
+        "title": "To Do App",
+        "description": "To Do app is a to do app. Basically it manages the user to do's. User can add and remove and edit,  to do's.",
+        "path": "/toDoApp"
+    },
+    {
+        "id": "__product__app",
+        "title": "Product App",
+        "description": "Product App is basically an app. Which fetches different kinds of product information and shows a result to user.",
+        "path": "/productApp"
+    },
+    {
+        "id": "__weather__app",
+        "title": "Weather App",
+        "description": "Weather App display's a weather of a particular location entered by the user. User can get location based on the zipcode, city name, latitude and lognitude.",
+        "path": "/weatherApp"
+    }
+]

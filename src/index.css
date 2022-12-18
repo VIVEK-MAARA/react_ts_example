@@ -1,0 +1,12 @@
+:root{
+	--fontColor: #EC9706;
+}
+
+body {
+	margin: 0;
+	font-family: "Gill Sans Extrabold", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background-color: #363636;
+	color: #fff;
+}
